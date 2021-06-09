@@ -1,0 +1,34 @@
+.container {
+justify-content: center;
+   display: flex;
+   font-family: sans-serif;
+   font-size: 40px;
+   font-weight: 500;
+}
+.con {
+    opacity: 0.7;
+}
+.C {
+    color: aqua;
+}
+.O {
+    color: blue;
+}
+.L { 
+    color: blueviolet;
+}
+.OO {
+    color: chartreuse;
+}
+.R {
+    color: crimson;
+}
+.F {
+color: darkkhaki;
+}
+.U {
+    color: darkred;
+ }
+ .LL {
+     color: grey;
+ }
